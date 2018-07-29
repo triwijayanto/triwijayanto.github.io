@@ -9,16 +9,17 @@ body {
 }
 
 h1 {
-    color: #778beb;
-    font-size: 56px;
+    font-size: 4em;
 }
 
 h2 {
     color: #c44569;
+    font-size: 3em;
 }
 
 h3 {
     color: #e66767;
+    font-size: 2em;
 }
 
 h4 {
@@ -26,7 +27,11 @@ h4 {
 }
 
 .welcome {
-    height: 300px;
+    height: auto;
+}
+.welcome img {
+    border-radius: 50%;
+    height: 20%;
 }
 .welcome p {
    
@@ -47,5 +52,4 @@ h4 {
     height: auto;
     padding: 20px;
     background-color:#f3a683;
- }
  }
