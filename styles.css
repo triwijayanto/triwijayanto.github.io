@@ -1,5 +1,16 @@
+nav a{
+    color: #c44569;
+}
+
+body {
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
 h1 {
     color: #778beb;
+    font-size: 56px;
 }
 
 h2 {
@@ -15,10 +26,26 @@ h4 {
 }
 
 .welcome {
-    height: 500px;
+    height: 300px;
 }
+.welcome p {
+   
+}
+.aboutMe {
+    height: auto;
+    padding: 20px;
+    background-color: #f7d794;
+ }
 
-.blockAboutMe {
-    height: 400 px;
-    background-color: #574b90;
+.myFavoriteTools {
+    height: auto;
+    padding: 20px;
+    background-color:#63cdda;
+ }
+
+ .wantToLearn {
+    height: auto;
+    padding: 20px;
+    background-color:#f3a683;
+ }
  }
