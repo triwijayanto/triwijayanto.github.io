@@ -1,9 +1,10 @@
 nav a{
     color: #c44569;
+    font-size: 3em;
 }
 
 body {
-    margin: 20px;
+    
     padding: 20px;
     text-align: center;
 }
@@ -37,19 +38,19 @@ h4 {
    
 }
 .aboutMe {
-    height: auto;
+    height: 100%;
     padding: 20px;
     background-color: #f7d794;
  }
 
 .myFavoriteTools {
-    height: auto;
+    height: 100%;
     padding: 20px;
     background-color:#63cdda;
  }
 
  .wantToLearn {
-    height: auto;
+    height: 100%;
     padding: 20px;
     background-color:#f3a683;
  }
