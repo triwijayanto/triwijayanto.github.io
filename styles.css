@@ -43,10 +43,15 @@ h4 {
     background-color: #f7d794;
  }
 
-.myFavoriteTools {
+ .skills {
     height: 100%;
     padding: 20px;
-    background-color:#63cdda;
+    background-color: #63cdda;
+ }
+ .myFavoriteTools {
+    height: 100%;
+    padding: 20px;
+    background-color: #f7d794 ;
  }
 
  .wantToLearn {
